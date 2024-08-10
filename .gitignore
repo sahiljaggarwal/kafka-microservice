@@ -1,0 +1,9 @@
+node_modules
+
+# Ignore the ca.pem file in common folders
+microservice-1/common/ca.pem
+microservice-2/common/ca.pem
+
+# Ignore .env files
+microservice-1/.env
+microservice-2/.env
